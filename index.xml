@@ -6,10 +6,21 @@
     <description>Recent content on Vitto&#39;s World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2020 14:18:23 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 15:20:33 +0200</lastBuildDate>
     
 	<atom:link href="https://vittoso.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git Status in Powershell</title>
+      <link>https://vittoso.github.io/posts/git-status-in-powershell/</link>
+      <pubDate>Sat, 30 May 2020 15:20:33 +0200</pubDate>
+      
+      <guid>https://vittoso.github.io/posts/git-status-in-powershell/</guid>
+      <description>Utilizzate git? Vorreste integrare in maniera utile e funzionale le informazioni di git status quando usate Windows Powershell? Oramai queste personalizzazioni non sono puù riservate a shell Linux come bash, ma il progetto posh-git ha pensato anche al nostro Powershell
+Cos&amp;rsquo;è Posh-git posh-git è un modulo PowerShell che fornisce le informazioni di &amp;lsquo;git status&amp;rsquo; riassumendole direttamente nel prompt di Powershell. Ad esempio questo:
+Inoltre fornite anche l&amp;rsquo;autocompletamento tramite tasto &amp;lsquo;tab&amp;rsquo; per i comandi di git, nomi delle branch, path, eccetera.</description>
+    </item>
     
     <item>
       <title>Welcome to Vitto&#39;s World!</title>
