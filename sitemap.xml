@@ -2,28 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vittoso.github.io/categories/</loc>
+    <lastmod>2021-05-17T19:35:41+02:00</lastmod>
+  </url><url>
+    <loc>https://vittoso.github.io/posts/</loc>
+    <lastmod>2021-05-17T19:35:41+02:00</lastmod>
+  </url><url>
+    <loc>https://vittoso.github.io/tags/</loc>
+    <lastmod>2021-05-17T19:35:41+02:00</lastmod>
+  </url><url>
+    <loc>https://vittoso.github.io/tags/tipstricks/</loc>
+    <lastmod>2021-05-17T19:35:41+02:00</lastmod>
+  </url><url>
+    <loc>https://vittoso.github.io/posts/visual-studio-shortcuts/</loc>
+    <lastmod>2021-05-17T19:35:41+02:00</lastmod>
+  </url><url>
+    <loc>https://vittoso.github.io/tags/visualstudio/</loc>
+    <lastmod>2021-05-17T19:35:41+02:00</lastmod>
+  </url><url>
+    <loc>https://vittoso.github.io/categories/visualstudio/</loc>
+    <lastmod>2021-05-17T19:35:41+02:00</lastmod>
+  </url><url>
+    <loc>https://vittoso.github.io/</loc>
+    <lastmod>2021-05-17T19:35:41+02:00</lastmod>
+  </url><url>
     <loc>https://vittoso.github.io/posts/cambio-lavoro-cambio-vita/</loc>
     <lastmod>2021-05-01T11:28:45+02:00</lastmod>
   </url><url>
-    <loc>https://vittoso.github.io/categories/</loc>
-    <lastmod>2021-05-01T11:28:45+02:00</lastmod>
-  </url><url>
     <loc>https://vittoso.github.io/tags/chi-sono/</loc>
-    <lastmod>2021-05-01T11:28:45+02:00</lastmod>
-  </url><url>
-    <loc>https://vittoso.github.io/posts/</loc>
     <lastmod>2021-05-01T11:28:45+02:00</lastmod>
   </url><url>
     <loc>https://vittoso.github.io/tags/presentazioni/</loc>
     <lastmod>2021-05-01T11:28:45+02:00</lastmod>
   </url><url>
     <loc>https://vittoso.github.io/categories/presentazioni/</loc>
-    <lastmod>2021-05-01T11:28:45+02:00</lastmod>
-  </url><url>
-    <loc>https://vittoso.github.io/tags/</loc>
-    <lastmod>2021-05-01T11:28:45+02:00</lastmod>
-  </url><url>
-    <loc>https://vittoso.github.io/</loc>
     <lastmod>2021-05-01T11:28:45+02:00</lastmod>
   </url><url>
     <loc>https://vittoso.github.io/tags/git/</loc>

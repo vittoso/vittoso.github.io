@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips&amp;Tricks on Vitto&#39;s World</title>
+    <link>https://vittoso.github.io/tags/tipstricks/</link>
+    <description>Recent content in Tips&amp;Tricks on Vitto&#39;s World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Mon, 17 May 2021 19:22:31 +0200</lastBuildDate><atom:link href="https://vittoso.github.io/tags/tipstricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visual Studio Tips&amp;Tricks: selezioni avanzare</title>
+      <link>https://vittoso.github.io/posts/visual-studio-shortcuts/</link>
+      <pubDate>Mon, 17 May 2021 19:22:31 +0200</pubDate>
+      
+      <guid>https://vittoso.github.io/posts/visual-studio-shortcuts/</guid>
+      <description>In questo articolo vorrei elencare un po&#39; di combinazioni di tasti con tastiera e mouse che trovo molto utili durante il lavoro con Visual Studio. Le combinazioni fanno riferimento a VisualStudio 2019 in lingua italiana.
+Selezione multi riga con il mouse Tieni premuto Alt mentre selezioni il blocco di codice:
+Selezione multi riga con la tastiera Premi Alt+Shift+TastoFreccia per selezionare il blocco di codice:
+Modifiche Multi-cursore Se devi modificare molteplici posizione non allineate nel codice, premi Ctrl+Alt e clicca dove vuoi aggiungere il cursore.</description>
+    </item>
+    
+  </channel>
+</rss>
